@@ -5,4 +5,4 @@ kaiten доска
 https://134824134824f.kaiten.ru/space/680605/boards?focus=board&focusId=1981015
 
 сайт
-[https://kenchikkk0.github.io/11.11.2026/](https://kenchikkk0.github.io/11.11.2026/?utm_source=chatgpt.com)
+[https://kenchikkk0.github.io/11.11.2026/](https://kenchikkk0.github.io/11.11.2026/)
