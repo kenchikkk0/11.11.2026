@@ -1,0 +1,17 @@
+:root {
+    --logo-image: url('фон.png');
+    --bg: #04040c;
+    --panel: #0d0d1a;
+    --line: #23233a;
+    --text: #f1f1f8;
+    --muted: #9a9ab4;
+    --blue: #4169e1;
+    --orange: #f59a23;
+    --violet: #8b3df0;
+    --pink: #d6246e;
+
+    color-scheme: dark;
+    box-sizing: border-box;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+}
