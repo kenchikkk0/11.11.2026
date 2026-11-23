@@ -207,6 +207,7 @@ h3 {
     margin: 0 0 10px;
     color: var(--muted);
     font-size: 14px;
+    cursor:default;
 }
 
 .photo {
