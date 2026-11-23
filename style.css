@@ -90,6 +90,7 @@ header {
     max-width: 480px;
     margin: 0;
     font-size: 26px;
+    cursor:default;
 }
 
 .slide p {
@@ -97,6 +98,7 @@ header {
     margin: 0;
     color: #e6e6f2;
     font-size: 14px;
+    cursor:default;
 }
 
 .s1 {
@@ -187,6 +189,7 @@ section {
 h3 {
     margin: 0 0 16px;
     font-size: 22px;
+    cursor:default;
 }
 
 .about {
@@ -207,6 +210,7 @@ h3 {
     margin: 0 0 10px;
     color: var(--muted);
     font-size: 14px;
+    cursor:default;
     cursor:default;
 }
 
